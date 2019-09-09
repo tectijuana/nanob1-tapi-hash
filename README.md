@@ -1,28 +1,45 @@
-![](http://www.bettshow.com/library_5/1738756_assocImage_2.png?rndUUID=935D8560-F6D9-649D-B65F22B5D35C8F97)
+# TITULOS
+## SubTitulos
 
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/4970280.png" width="477" height="65" alt="T E M P L E T E" /></a>
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0CoQzwYgxsTV5YDiL3wkPCFnTwJ7zgqWT4KYnRrNtq7FGhMLtLg)
+# Introducción
+La **programación** es un proceso que se utiliza para idear y ordenar las acciones que se realizarán en el marco de un proyecto; al anuncio o espectáculo; a la preparación de máquinas para que cumplan con una cierta tarea en un momento determinado.
 
-Plantilla generica de todo repositorio.
+## ¿Qué es lenguaje?
 
-1. Tutor básico de Git en 15 minutos http://try.github.com por CodeSchool
-2. Git Guru https://www.atlassian.com/git/tutorials por GitBucket
-3. Git comandos como glosario https://www.atlassian.com/git/glossary
-4. DZone resumen tutorial mas popular https://dzone.com/refcardz/getting-started-git
-5. Nuestro glosario español https://github.com/tectijuana/PlantillaInicio/blob/master/glosario.md
+En informática, se conoce como lenguaje de programación a **un programa destinado a la construcción de otros programas informáticos**. Su nombre se debe a que comprende un lenguaje formal que está diseñado para organizar algoritmos y procesos lógicos que serán luego llevados a cabo por un ordenador o sistema informático, permitiendo controlar así su comportamiento físico, lógico y su comunicación con el usuario humano.  
+![](https://concepto.de/wp-content/uploads/2018/09/lenguaje-de-programaci%C3%B3n-e1537466894547.jpg)
 
-----
+## ¿Qué es algoritmo?
+Un algoritmo se puede definir como una secuencia de instrucciones que representan un modelo de solución para determinado tipo de problemas. O bien un conjunto de instrucciones que realizadas en orden conducen a obtener la solución de un problema.
 
-Git for Windows hay tres versiones pero la mas recomendable es https://git-scm.com/download/win Git For Windows 2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/LampFlowchart-es.svg/1200px-LampFlowchart-es.svg.png)
 
-----
+## Un algoritmo cotidiano puede ser...
 
-![](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/basics-linux-commands_orig.jpg)
+*Algoritmo para lavarse las manos
+INICIO
+1.Abrir el grifo de agua.
+2.Mojarse las manos.
+3.Aplicarse jabón.
+4.Enjuagarse las manos.
+5.Cerrar el grifo de agua.
+6.Secarse la manos con papel.
+7.Exponer las manos a corriente de aire caliente.
+FIN
 
-Aprender Linux básico 
-https://likegeeks.com/main-linux-commands-easy-guide/
+## Lenguajes Algoritmicos
 
-Tips de Linux para ser productivos
-https://dzone.com/articles/most-useful-linux-command-line-tricks?edition=306244&utm_source=weekly%20digest&utm_medium=email&utm_campaign=wd%202017-07-12
+Es una serie de símbolos y reglas que se utilizan para describir de manera explícita un proceso. Teniendo en cuenta la forma en que describen el proceso, existen dos tipos de lenguajes algorítmicos:
 
+-   **Gráficos:** Es la representación gráfica de las operaciones que realiza un algoritmo (diagrama de flujo).
 
+  
+
+[![](https://sites.google.com/site/portafoliocarlosmacallums/_/rsrc/1494399218896/unidad-i/lenguajealgoritmico/diagrama-de-fluj2o-397795.png)](https://sites.google.com/site/portafoliocarlosmacallums/unidad-i/lenguajealgoritmico/diagrama-de-fluj2o-397795.png?attredirects=0)
+
+-   **No Gráficos:** Representa en forma descriptiva las operaciones que debe realizar un algoritmo (pseudocódigo).
+
+  
+
+[![](https://sites.google.com/site/portafoliocarlosmacallums/_/rsrc/1494399218896/unidad-i/lenguajealgoritmico/14930986722.jpg)](https://sites.google.com/site/portafoliocarlosmacallums/unidad-i/lenguajealgoritmico/14930986722.jpg?attredirects=0)
